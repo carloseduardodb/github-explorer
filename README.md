@@ -65,7 +65,7 @@ Você nunca precisa usar `ejetar`. O conjunto de recursos selecionados é adequa
 <p>As seguintes ferramentas foram usadas na construção do projeto:</p>
 <ul>
     <li>React</li>
-    <li>Javascript</li>
+    <li>Typescript</li>
     <li>HTML</li>
     <li>CSS</li>
 </ul>
