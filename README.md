@@ -42,13 +42,13 @@ Veja a seção sobre [running tests](https://facebook.github.io/create-react-app
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Compila o aplicativo para produção na pasta `build`. \
+Ele agrupa corretamente o React no modo de produção e otimiza a construção para o melhor desempenho.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+A compilação é reduzida e os nomes dos arquivos incluem os hashes. \
+Seu aplicativo está pronto para ser implantado!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Visite a seção sobre [deployment](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
 
 ### `yarn eject`
 
