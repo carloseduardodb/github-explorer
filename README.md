@@ -1,23 +1,44 @@
-# Getting Started with Create React App
+# Github Explorer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="./src/assets/project-images/01.png" alt="logo">
 
-## Available Scripts
+Este projeto foi criado para explorar repositórios e salva-los localmente no navegador, podendo o usuário visualizar os detalhes do repositório clicando neles.
 
-In the project directory, you can run:
+<br>
+
+# Imagens
+
+<hr>
+
+## Home
+
+<img src="./src/assets/project-images/02.png" alt="Tela inicial">
+<br>
+
+## Listagem
+
+<img src="./src/assets/project-images/03.png" alt="Tela inicial">
+<br>
+
+## Visualização de Detalhes
+
+<img src="./src/assets/project-images/04.png" alt="Tela inicial">
+<br>
+
+## Script
+
+No diretorio do projeto você pode executar
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Executa o aplicativo no modo de desenvolvimento.
+<br>
+Abra http: // localhost: 3000 para visualizá-lo no navegador.
 
 ### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Inicia o executor de teste no modo de observação interativo.\
+Veja a seção sobre [running tests](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
 
 ### `yarn build`
 
@@ -31,16 +52,33 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Nota: esta é uma operação unilateral. Depois de `ejetar`, você não pode voltar!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Se não estiver satisfeito com a ferramenta de construção e as opções de configuração, você pode `ejetar` a qualquer momento. Este comando removerá a dependência de compilação única de seu projeto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc) diretamente em seu projeto para que você tenha total controle sobre eles. Todos os comandos, exceto `eject`, ainda funcionarão, mas eles irão apontar para os scripts copiados para que você possa ajustá-los. Neste ponto, você está sozinho.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Você nunca precisa usar `ejetar`. O conjunto de recursos selecionados é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que esta ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto para ela.
 
-## Learn More
+### `Tecnologias`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p>As seguintes ferramentas foram usadas na construção do projeto:</p>
+<ul>
+    <li>React</li>
+    <li>Javascript</li>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### `Autor`
+
+<a href="">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/50811913?s=460&u=e1c04894465fe053a294c52018828a33e47d1dd4&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Carlos Eduardo</b></sub></a>
+
+Feito com ❤️ por Carlos Eduardo
+
+<a href="mailto:carloseduardodiasbatista@gmail.com">Entre em contato</a>
+
+[![Gmail Badge](https://img.shields.io/badge/-carloseduardodiasbatista@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloseduardodiasbatista@gmail.com)](mailto:carloseduardodiasbatista@gmail.com)
